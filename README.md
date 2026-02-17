@@ -26,4 +26,4 @@ TEST ACCOUNT BASE URL: https://rtcp-nv.tellyo.com/tellyo-rtc-web/rest/open/v2/
 TEST ACCOUNT ORG ID: Amagi SE Jo
 TEST ACCOUNT TOKEN: 5df98e5cda58611cd2f82646995d3d08
 
-
+During onboarding, Amagi CS team gathers CP and/or STUDIO API data upon setup of environment. Future update can pull that data directly from system if possible.
